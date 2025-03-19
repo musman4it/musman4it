@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Muhammad Usman (musman4it)
+# Slaam o Alaikum ,  I'm Muhammad Usman (musman4it)
 
 ### 💼 About Me
 - 🎓 I’m currently learning **AI** as a **Certified Agentic and Robotic AI Engineer** from **UMT**.
